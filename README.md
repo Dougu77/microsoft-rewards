@@ -1,4 +1,4 @@
-Microsoft Rewards for PC
+# Microsoft Rewards for PC
 
 * First personal project using Java.
 * Program created to automate collecting the 90 daily points of search on Microsoft Bing, on PC.
