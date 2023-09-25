@@ -1,18 +1,6 @@
-## Getting Started
+Microsoft Rewards for PC
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* First personal project using Java.
+* Program created to automate collecting the 90 daily points of search on Microsoft Bing, on PC.
+* The program opens the icon of Miceosoft Edge on the desktop and make the required daily number of searchs.
+* Adjust the position of where the program open Edge in the script Functions.java, then open the .jar file and just wait until the process is done.
