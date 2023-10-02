@@ -2,12 +2,12 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        Functions func = new Functions();
-        func.openBrowser();
-        func.firstSearchBar();
-        func.secondSearchBar();
-        func.fullTypeLetter();
-        func.finish();
+        Bot bot = new Bot();
+        bot.openBrowser();
+        bot.firstSearchBar();
+        bot.secondSearchBar();
+        bot.fullTypeLetter();
+        bot.finish();
     }
     
 }
