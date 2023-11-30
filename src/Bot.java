@@ -12,7 +12,7 @@ public class Bot{
     private int click = InputEvent.BUTTON1_DOWN_MASK;
     private int firstSearchBarX = 160;
     private int firstSearchBarY = 50;
-    private int secondSearchBarX = 240;
+    private int secondSearchBarX = 260;
     private int secondSearchBarY = 145;
     private int letter = KeyEvent.VK_A;
     private int enter = KeyEvent.VK_ENTER;
@@ -39,6 +39,7 @@ public class Bot{
 
     public void fullTypeLetter() {
         for(int i = 0; i < 35; i++) {
+            secondSearchBar();
             typeLetter();
         }
     }
