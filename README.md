@@ -7,7 +7,7 @@
 
 ## Informações
 
-- Primeijo projeto pessoal usando Java.
+- Primeiro projeto pessoal usando Java.
 - Programa criado para automatizar a coleta dos 90 pontos diários de pesquisas no Bing, no PC.
 - O programa abre o ícone do Edge na barra de tarefas e faz o número necessário de pesquisas.
 - Você talvez precise ajustar a posição de onde o programa abre o Edge. Mude isso em [Bot.java](https://github.com/Dougu77/microsoft-rewards-bot/blob/main/src/Bot.java)
